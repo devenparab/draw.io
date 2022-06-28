@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T12:40:24.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="7L6dCBK_WpXD3xpHK-jk" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T12:41:15.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="KMHnkTaMW4NtheQ1y_EU" version="17.4.5" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
     <mxGraphModel dx="3131" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -267,9 +267,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBreNSzFSE8uNr_BIwcD-121" value="Integrate when Feature branch is stable and tested" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="1107.63" y="406" width="327.75" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="nBreNSzFSE8uNr_BIwcD-122" value="&lt;b&gt;develop &lt;/b&gt;branch contains stable features for the next release" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontStyle=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-320.12" y="262" width="418.25" height="36" as="geometry" />
         </mxCell>
@@ -281,6 +278,12 @@
         </mxCell>
         <mxCell id="nBreNSzFSE8uNr_BIwcD-126" value="&lt;div&gt;any &lt;b&gt;hotfix&lt;/b&gt; branch changes has to be merged to &lt;b&gt;master/develop&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontStyle=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="990" y="112" width="418.25" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="nBreNSzFSE8uNr_BIwcD-127" value="&lt;div&gt;any &lt;b&gt;hotfix&lt;/b&gt; branch changes has to be merged to &lt;b&gt;develop/feature&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontStyle=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="990" y="220" width="418.25" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="nBreNSzFSE8uNr_BIwcD-128" value="integrate &lt;b&gt;feature&lt;/b&gt; branch when its stable and tested" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontStyle=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="392" width="418.25" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
