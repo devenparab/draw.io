@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T12:42:42.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="XmvM821SLXi4MhTiF3Iv" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T12:44:13.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="JxSUUtzTHfyO64voSPTt" version="17.4.5" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
     <mxGraphModel dx="3131" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -71,6 +71,11 @@
         </mxCell>
         <mxCell id="nBreNSzFSE8uNr_BIwcD-40" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="327.63" y="202" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nBreNSzFSE8uNr_BIwcD-131" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBreNSzFSE8uNr_BIwcD-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242.62999999999965" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nBreNSzFSE8uNr_BIwcD-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="227.63" y="282" width="30" height="30" as="geometry" />
@@ -290,6 +295,9 @@
         </mxCell>
         <mxCell id="nBreNSzFSE8uNr_BIwcD-130" value="Tag: 1.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="887.63" y="128" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nBreNSzFSE8uNr_BIwcD-132" value="&lt;div&gt;&lt;b&gt;feature&lt;/b&gt; branch to always sync with &lt;b&gt;develop&lt;/b&gt; branch&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontStyle=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="418.25" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
